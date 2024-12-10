@@ -1,5 +1,8 @@
 # Financial Literacy App - Figma Design  
 
+The live Figma design for this project can be accessed here:  
+[**View on Figma**](https://www.figma.com/design/mymH9ReiwFzTP21jrQBPJF/resume-dhruv?node-id=0-1&t=v5SJQcFalXheOJNm-1)  
+
 Welcome to the **Financial Literacy App** repository! This app is designed to help teens achieve financial independence through intuitive designs and thoughtful features.  
 
 ---
@@ -48,3 +51,4 @@ The **Notifications Page** ensures users stay informed:
 The **Settings Page** allows users to:  
 - Manage their profiles and preferences.  
 - Personalize the app's behavior for an optimized experience.  
+
